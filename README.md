@@ -1,24 +1,21 @@
-# README
+# Devise Gem Practice Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![](https://img.shields.io/badge/Rails-6.0.3.4-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4e03fc) ![](https://img.shields.io/badge/Ruby-2.7.0-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=fc0324)
 
-Things you may want to cover:
+## Overview
 
-* Ruby version
+The goal of this project is to practice setting up the gem Devise in a rails app in different ways to explore it's uses.
+I will losely follow some youtube tutorials - for which I'll list links here - in addition to familiarizing myself with the **[Devise documentation](https://github.com/heartcombo/devise)**.
 
-* System dependencies
+### Basic set up
 
-* Configuration
+1. Rails app using postgresql and no minitest.
+2. Add rspec and figaro.
+3. In addition, I installed other gems primarily with the purpose of practicing writing tests as well. These include should-matchers, capybara, pry.
+4. Simplecov and rubocop were added for feedback.
 
-* Database creation
+### Youtube tutorials
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. ["How to Setup and Extend Devise in Ruby on Rails 6"](https://www.youtube.com/watch?v=44sA_j2iL-Q) by  *[David Battersby](https://www.youtube.com/c/DavidBattersby)*
+2. [""]()
+3. [""]()
