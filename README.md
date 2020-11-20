@@ -17,5 +17,5 @@ I will losely follow some youtube tutorials - for which I'll list links here - i
 ### Youtube tutorials
 
 1. ["How to Setup and Extend Devise in Ruby on Rails 6"](https://www.youtube.com/watch?v=44sA_j2iL-Q) by  *[David Battersby](https://www.youtube.com/c/DavidBattersby)*
-2. [""]()
+2. ["Rails Tutorial | Setting Up Authentication with Devise in Ruby on Rails 6"](https://www.youtube.com/watch?v=jd1gOhpETIA) by *[TechmakerTV](https://www.youtube.com/channel/UCaT8uPGUYbdRsjm4cJy1D7w)*
 3. [""]()
